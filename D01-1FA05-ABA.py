@@ -1,6 +1,3 @@
-# File Name Format: LastName_FirstName_DistanceProgram.py
-# Example: DelaCruz_Juan_DistanceProgram.py
-
 import math
 
 # Ask the user for coordinates of the two points
